@@ -1,7 +1,7 @@
 body {
   background: #000;
   font: 16px/1.5em Avenir, Arial, sans-serif;
-  color: #333; }
+  color: #FFF; }
 
 main {
   /* autoprefixer: off */
@@ -27,7 +27,7 @@ section {
 
 h1 {
   font-family: Avenir, Arial;
-  color: #222;
+  color: #FFF;
   font-size: .67em;
   font-weight: 500;
   margin: .9em 0 1.25em 1em;
