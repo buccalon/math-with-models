@@ -1,2 +1,2 @@
 # Math with Models
-Hello world!
+GitHub Pages files
