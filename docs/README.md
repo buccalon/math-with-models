@@ -1,1 +1,1 @@
-GitHub Pages files
+**Math with Models** GitHub Pages files
