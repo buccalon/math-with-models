@@ -6,7 +6,7 @@ body {
 main {
   /* autoprefixer: off */
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(450px, 1fr)); }
+  grid-template-columns: repeat(auto-fit, minmax(380px, 1fr)); }
 
 section {
   color: #eee;
@@ -28,7 +28,7 @@ section {
 h1 {
   font-family: Avenir, Arial;
   color: #FFF;
-  font-size: .67em;
+  font-size: .80em;
   font-weight: 500;
   margin: .9em 0 1.25em 1em;
   line-height: 1.1em; }
