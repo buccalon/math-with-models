@@ -42,6 +42,11 @@ main nav {
     grid-template-columns: repeat(5, minmax(200px, 1fr));
 }
 
+article {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
 section {
   color: #eee;
   box-shadow: -1px 0px 0px rgba(0, 0, 0, 0.08);
@@ -66,8 +71,23 @@ section {
   margin: .9em 0 1.25em 1em;
   line-height: 2.1em; }
 
+#card {
+    display: flex;
+}
+
+#card h1 {
+    font-size: 1.2em;
+}
+
+#card img {
+    width: 500px;
+    height: 500px;
+}
+
 section:hover h1 {
     color: #999;
+    margin: 0;
+    align-self: left;
 }
 
 footer {
@@ -80,7 +100,7 @@ footer {
     color: #666;
 }
 
-footer a {
+a {
     color: #666;
 }
 
