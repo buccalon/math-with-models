@@ -44,7 +44,7 @@ main nav {
 
 article {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: repeat(2, minmax(550px, 1fr));
 }
 
 section {
@@ -73,6 +73,7 @@ section {
 
 #card {
     display: flex;
+    width: 500px;
 }
 
 #card h1 {
